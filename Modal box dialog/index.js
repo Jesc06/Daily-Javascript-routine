@@ -24,7 +24,7 @@ window.onclick = function(event) {
 
     var modal = document.getElementById("Modal");
     var modalBackground = document.getElementById("ModalBg");
-    var buttons = document.querySelectorAll(".ButtonRegister");
+    var buttons = document.querySelectorAll(".ButtonRegister");// this querySelector .ButtonRegister is a class name
     var Close = document.getElementsByClassName("Close")[0];
 
 
