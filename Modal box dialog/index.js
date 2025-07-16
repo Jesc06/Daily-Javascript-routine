@@ -20,7 +20,7 @@ window.onclick = function(event) {
 }
 
 
-//Method kapag yung button ay nasa loob ng loop sa madaling sabi madami at dumadami pa
+//method when a button is inside a loop — in other words, when there are many buttons and more can be added dynamically
 
     var modal = document.getElementById("Modal");
     var modalBackground = document.getElementById("ModalBg");
