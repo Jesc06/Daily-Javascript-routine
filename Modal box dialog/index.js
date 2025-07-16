@@ -20,7 +20,7 @@ window.onclick = function(event) {
 }
 
 
-//method when a button is inside a loop — in other words, when there are many buttons and more can be added dynamically
+// Method when the button is inside a loop  in other words, there are many buttons and they keep increasing
 
     var modal = document.getElementById("Modal");
     var modalBackground = document.getElementById("ModalBg");
